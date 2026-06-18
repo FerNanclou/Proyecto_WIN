@@ -1,4 +1,14 @@
 **IMPORTANTE TENER PYTHON INSTALADO EN LA PC O LAPTOP DONDE EJECUTARA EL PROGRAMA**
-PEGAR COMANDO EN CMD DE CARPETA DONDE AGREGASTE TODOS LOS ARCHIVOS  
 
-pip install customtkinter easyocr torch torchvision --index-url https://download.pytorch.org/whl/cpu
+SINO TIENES INSTALADO PYTHON INSTALAR CON EL LINK:
+
+https://www.python.org/downloads/release/pymanager-262/
+
+
+
+PEGAR COMANDO EN CMD ANTES DE ABRIR PROGRAMA
+
+pip install customtkinter easyocr 
+
+darle click a INICIAR_APP.bat y se ejecuta el programa ó 
+en CMD dentro de la carpeta poner: python app.py
